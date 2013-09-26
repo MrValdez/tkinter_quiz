@@ -1,0 +1,3 @@
+A solution to a simple quiz I gave to my students.
+
+I did not want to include the images I created in paint. So I encoded them as base64. This also allow the entire solution to exist in only one file (instead of 1 python code + 2 images)
