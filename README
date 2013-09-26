@@ -1,3 +1,16 @@
 A solution to a simple quiz I gave to my students.
+---
 
-I did not want to include the images I created in paint. So I encoded them as base64. This also allow the entire solution to exist in only one file (instead of 1 python code + 2 images)
+So I gave a quiz to my students and for some reason, I got an itch to code a solution.
+
+The quiz is this:
+
+Make a tkinter application that has one label which contains "Are you a boy or a girl?". There are two buttons with the Mars and Venus gender symbols. Clicking either one will acknowledge the user.
+
+---
+
+I did not want to include the images I created in paint. So I encoded them as base64. This also allow the entire solution to exist in only one file (instead of 1 python code + 2 images).
+
+---
+
+Btw, to those who didn't get the reference, you need to play more videogames. Hmmm, maybe this is why I got an itch to answer my own quiz. :p
